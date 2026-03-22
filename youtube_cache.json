@@ -1,10 +1,4 @@
 {
-  "ahaber": {
-    "name": "A Haber",
-    "group": "YOUTUBE HABER",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nAHaber=s88",
-    "url": ""
-  },
   "halktv": {
     "name": "Halk TV",
     "group": "YOUTUBE HABER",
@@ -15,6 +9,12 @@
     "name": "Sözcü TV",
     "group": "YOUTUBE HABER",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nSozcuTV=s88",
+    "url": ""
+  },
+  "ahaber": {
+    "name": "A Haber",
+    "group": "YOUTUBE HABER",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nAHaber=s88",
     "url": ""
   },
   "cnnturk": {
@@ -35,6 +35,18 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nNTV=s88",
     "url": ""
   },
+  "globaltv": {
+    "name": "Global TV",
+    "group": "YOUTUBE HABER",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nGlobal=s88",
+    "url": ""
+  },
+  "tgrthaber": {
+    "name": "TGRT Haber",
+    "group": "YOUTUBE HABER",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTGRT=s88",
+    "url": ""
+  },
   "trthaber": {
     "name": "TRT Haber",
     "group": "YOUTUBE HABER",
@@ -47,28 +59,16 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTVNET=s88",
     "url": ""
   },
-  "tgrthaber": {
-    "name": "TGRT Haber",
-    "group": "YOUTUBE HABER",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTGRT=s88",
-    "url": ""
-  },
-  "globaltv": {
-    "name": "Global TV",
-    "group": "YOUTUBE HABER",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nGlobal=s88",
-    "url": ""
-  },
   "tv100": {
     "name": "Tv100",
     "group": "YOUTUBE SPOR",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTRTSpor=s88",
     "url": ""
   },
-  "aspor": {
-    "name": "A Spor",
+  "beinsports": {
+    "name": "BeIN Sports",
     "group": "YOUTUBE SPOR",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nASpor=s88",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nBein=s88",
     "url": ""
   },
   "ulketv": {
@@ -83,10 +83,10 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nEkol=s88",
     "url": ""
   },
-  "beinsports": {
-    "name": "BeIN Sports",
+  "aspor": {
+    "name": "A Spor",
     "group": "YOUTUBE SPOR",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nBein=s88",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nASpor=s88",
     "url": ""
   },
   "niloya": {
