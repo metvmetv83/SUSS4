@@ -1,23 +1,53 @@
 [
+    {
+    "name": "CNN TÜRK",
+    "logo": "https://yt3.googleusercontent.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live"
+  },
+    {
+    "name": "Habertürk",
+    "logo": "https://yt3.googleusercontent.com/SqaSrx9HvlbnpXqfrsyqJOpL3uHHi3GQ3htT3gPdP3S8yebiy4iVPrZ4Ai1wQnNoHv7aUBLIeEE=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA/live"
+  },
+    {
+    "name": "NTV",
+    "logo": "https://yt3.googleusercontent.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live"
+  },
+    {
+    "name": "TRT Haber",
+    "logo": "https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/ UCBgTP2LOFVPmq15W-RH-WXA/live"
+  },
+    {
+    "name": "TGRT Haber",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mLAxlfYMg4fHPVZA80ly_sjryTgQGUDe-TeH4-j3zrkw=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live"
+  },
+    {
+    "name": "TVNET",
+    "logo": "https://yt3.googleusercontent.com/WJm8IMexX9Atd0eOkmHFXagUieCC43mZO1B-TQAhBYm8iR4H5do0Go_kYWz_g-bSYxx6yXZPycI=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UC8rh34IlJTN0lDZlTwzWzjg/live"
+  },
   {
     "name": "Sözcü TV",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k_8nnMqhK5bW9G9t4LQZNT5a-_K-7m8WUm4q3x=s88",
-    "url": "https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live"
+    "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/ UCOulx_rep5O4i9y6AyDqVvw/live"
   },
   {
     "name": "Halk TV",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nK6i3mVGRF5ZaVOqFhpMjR6KDKkrYg5LQb7LoL=s88",
-    "url": "https://www.youtube.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA/live"
+    "logo": "https://yt3.googleusercontent.com/u8lIyigiEuofBWzGVRVJ_WOOdXp6cPTt9-02Kp8lG4XgMHXx0ZB_lwNINw4sLJaAk6ej35ueeA=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
   },
   {
-    "name": "CNN TÜRK",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mB2qB4JqkP9I1xM4qT7cI5Ps7J5qL0Kqbdk4t=s88",
-    "url": "https://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live"
+    "name": "TV100",
+    "logo": "https://yt3.googleusercontent.com/aZLhsZLYhNU7AYvYAjisJNOjCYId7D0-Si3SURbJ2cqUWfSHkanAp53bVJvNgAWHo1M0HRg-=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live"
   },
   {
-    "name": "Habertürk",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mhQ8J5X4Kp6N2T8mL3Z7qR9cP1V5s4W6yXk8=s88",
-    "url": "https://www.youtube.com/channel/UC6T0L26KS1NHMPbTwI1L4Eg/live"
+    "name": "Haber Global",
+    "logo": "https://yt3.googleusercontent.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live"
   },
   {
     "name": "A Haber",
