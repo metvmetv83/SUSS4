@@ -1,0 +1,35 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo indir
+        uses: actions/checkout@v4
+
+      - name: M3U listesini çek
+        run: |
+          curl -L "http://87.121.104.29:1071/patronyt.m3u" -o playlist.m3u
+
+      - name: Git ayarla
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Değişiklik kontrol
+        run: |
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "Playlist güncellendi $(date)"
+
+      - name: Push
+        run: |
+          git push
