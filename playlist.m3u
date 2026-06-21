@@ -1,6 +1,23 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="245931" tvg-name="kanal-d",Kanal D
-http://87.121.104.29:8001/?id=245931&token=6a0e163c8318763e366040afa9ae4662
 
-#EXTINF:-1 tvg-id="246195" tvg-name="sinema-tv",Sinema TV
-http://87.121.104.29:8001/?id=246195&token=6a0e163c8318763e366040afa9ae4662
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>403 - Erişim Engellendi</title>
+        <style>
+            body { font-family: Arial, sans-serif; background: #0a0e27; color: #fff; 
+                   display: flex; justify-content: center; align-items: center; 
+                   height: 100vh; margin: 0; }
+            .container { text-align: center; background: #1a1f3a; padding: 50px; 
+                        border-radius: 10px; border-left: 4px solid #ff0000; }
+            h1 { color: #ff0000; }
+            p { color: #aaa; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>🚫 403 - Erişim Engellendi</h1>
+            <p>IP adresiniz engellenmiştir.</p>
+        </div>
+    </body>
+    </html>
+    
