@@ -1,10 +1,4 @@
 {
-  "halktv": {
-    "name": "Halk TV",
-    "group": "YOUTUBE HABER",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nHalkTV=s88",
-    "url": ""
-  },
   "cnnturk": {
     "name": "CNN TÜRK",
     "group": "YOUTUBE HABER",
@@ -27,6 +21,12 @@
     "name": "A Haber",
     "group": "YOUTUBE HABER",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nAHaber=s88",
+    "url": ""
+  },
+  "halktv": {
+    "name": "Halk TV",
+    "group": "YOUTUBE HABER",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nHalkTV=s88",
     "url": ""
   },
   "ntv": {
@@ -59,6 +59,12 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTGRT=s88",
     "url": ""
   },
+  "ulketv": {
+    "name": "Ülke TV",
+    "group": "YOUTUBE SPOR",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTV8=s88",
+    "url": ""
+  },
   "beinsports": {
     "name": "BeIN Sports",
     "group": "YOUTUBE SPOR",
@@ -71,22 +77,16 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nASpor=s88",
     "url": ""
   },
-  "tv100": {
-    "name": "Tv100",
-    "group": "YOUTUBE SPOR",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTRTSpor=s88",
-    "url": ""
-  },
   "ekoturk": {
     "name": "EkoTürk TV",
     "group": "YOUTUBE HABER",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nEkol=s88",
     "url": ""
   },
-  "ulketv": {
-    "name": "Ülke TV",
+  "tv100": {
+    "name": "Tv100",
     "group": "YOUTUBE SPOR",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTV8=s88",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nTRTSpor=s88",
     "url": ""
   },
   "trtcocuk": {
