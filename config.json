@@ -1,0 +1,96 @@
+{
+  "quality": "best[height<=1080][fps<=50]/best",
+  "output_folder": "playlist",
+  "output_playlist": "playlist.m3u8",
+  "github_raw_base": "https://raw.githubusercontent.com/Tahir2020/TR_Avrupa/main",
+  "channels": [
+    {
+      "name": "A_Spor",
+      "url": "https://www.youtube.com/@ASpor/live"
+    },
+    {
+      "name": "A_Haber",
+      "url": "https://www.youtube.com/@Ahaber/live"
+    },
+    {
+      "name": "Arzu_Film",
+      "url": "https://www.youtube.com/@arzufilm1964/live"
+    },
+    {
+      "name": "Kemal_Sunal_1",
+      "url": "https://www.youtube.com/@GulsahFilmOfficial/live"
+    },
+    {
+      "name": "Kemal_Sunal_2",
+      "url": "https://www.youtube.com/@KemalSunalFilmleriveSahneleri/live"
+    },
+    {
+      "name": "A_Para",
+      "url": "https://www.youtube.com/@apara/live"
+    },
+    {
+      "name": "CNN_Turk",
+      "url": "https://www.youtube.com/@cnnturk/live"
+    },
+    {
+      "name": "Haber_Global",
+      "url": "https://www.youtube.com/@haberglobal/live"
+    },
+    {
+      "name": "Bloomberg_HT",
+      "url": "https://www.youtube.com/@bloomberght/live"
+    },
+    {
+      "name": "NTV",
+      "url": "https://www.youtube.com/@NTV/live"
+    },
+    {
+      "name": "TV100",
+      "url": "https://www.youtube.com/tv100/live"
+    },
+    {
+      "name": "24_TV",
+      "url": "https://www.youtube.com/@YirmidortTV/live"
+    },
+    {
+      "name": "Halk_TV",
+      "url": "https://www.youtube.com/@Halktvkanali/live"
+    },
+    {
+      "name": "Sozcu_TV",
+      "url": "https://www.youtube.com/@Sozcutelevizyonu/live"
+    },
+    {
+      "name": "Ulke_TV",
+      "url": "https://www.youtube.com/@ulketv/live"
+    },
+    {
+      "name": "TVNET",
+      "url": "https://www.youtube.com/@TVNET/live"
+    },
+    {
+      "name": "TGRT_Haber",
+      "url": "https://www.youtube.com/@tgrthaber/live"
+    },
+    {
+      "name": "TRT_Haber",
+      "url": "https://www.youtube.com/@trthaber/live"
+    },
+    {
+      "name": "Flash_Haber",
+      "url": "https://www.youtube.com/@FlashHaberTV/live"
+    },
+    {
+      "name": "Bein_Sports_Haberler",
+      "url": "https://www.youtube.com/@beINSPORTST%C3%BCrkiye/live"
+    },
+    {
+      "name": "Ask-ı Memnu",
+      "url": "https://www.youtube.com/watch?v=JpP13Wp1ke0"
+    },
+    {
+      "name": "Kurtar_Vadisi_Pusu",
+      "url": "https://www.youtube.com/@KurtlarVadisi/live"
+    }
+  ]
+}
