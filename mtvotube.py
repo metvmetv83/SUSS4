@@ -96,7 +96,6 @@ def main() -> int:
     playlist_file = output_path / OUTPUT_PLAYLIST
     playlist_file.write_text("\n".join(m3u_lines) + "\n", encoding="utf-8")
     
-    # Ekstra uyumluluk için alias (playlist.m3u8) da oluşturabiliriz
     (output_path / "playlist.m3u8").write_text("\n".join(m3u_lines) + "\n", encoding="utf-8")
 
     print("-" * 50)
