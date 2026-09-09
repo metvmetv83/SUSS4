@@ -63,7 +63,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add playlist/*.m3u playlist/*.m3u8 config.json mtvotube.py requirements.txt .github/workflows/update-stream.yml
+          git add playlist/ config.json mtvotube.py requirements.txt .github/workflows/update-stream.yml
 
           git diff --cached --quiet || git commit -m "🔄 Playlist M3U listelerini güncelle: $(date '+%Y-%m-%d %H:%M:%S')"
 
