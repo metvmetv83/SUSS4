@@ -1,4 +1,4 @@
-name: TV Kanalları - Playlist Güncelleme
+name: METVoutube Kanalları - Playlist Güncelleme
 
 on:
   schedule:
