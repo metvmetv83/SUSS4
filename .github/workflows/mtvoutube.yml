@@ -1,4 +1,4 @@
-name: METVoutube Kanalları - Playlist Güncelleme
+name: TV Kanalları - Playlist Güncelleme
 
 on:
   schedule:
@@ -37,23 +37,6 @@ jobs:
           echo "yt-dlp: $(yt-dlp --version)"
           deno --version
           which deno
-
-      - name: 🍪 Cookies'i hazırla
-        run: |
-          if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
-            echo "${{ secrets.YOUTUBE_COOKIES }}" | base64 -d > cookies.txt
-            echo "✅ Cookies yüklendi"
-          else
-            touch cookies.txt
-            echo "⚠️ YOUTUBE_COOKIES secret yok, boş cookies.txt ile devam ediliyor"
-          fi
-
-          echo "📄 Cookie satır sayısı: $(wc -l < cookies.txt)"
-          if grep -q "youtube.com" cookies.txt; then
-            echo "✅ YouTube cookie domain bulundu"
-          else
-            echo "⚠️ YouTube cookie domain bulunamadı"
-          fi
 
       - name: 🎬 Playlist klasörüne M3U listelerini oluştur
         run: |
