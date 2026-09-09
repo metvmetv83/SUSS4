@@ -33,10 +33,10 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
     ]
 
     attempts = [
-        ("deno/default", [*common, "-g", "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=default", "-f", quality, youtube_url]),
-        ("android_client", [*common, "-g", "--extractor-args", "youtube:player_client=android", "-f", "best[protocol=m3u8_native]/best", youtube_url]),
-        ("ios_client", [*common, "-g", "--extractor-args", "youtube:player_client=ios", "-f", "best[protocol=m3u8_native]/best", youtube_url]),
-        ("web_client", [*common, "-g", "--extractor-args", "youtube:player_client=web", "-f", "best", youtube_url])
+        ("mweb_client", [*common, "-g", "--extractor-args", "youtube:player_client=mweb", "-f", quality, youtube_url]),
+        ("android_client", [*common, "-g", "--extractor-args", "youtube:player_client=android", "-f", quality, youtube_url]),
+        ("tv_embedded", [*common, "-g", "--extractor-args", "youtube:player_client=tv_embedded", "-f", quality, youtube_url]),
+        ("deno/default", [*common, "-g", "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=default", "-f", quality, youtube_url])
     ]
 
     for label, cmd in attempts:
